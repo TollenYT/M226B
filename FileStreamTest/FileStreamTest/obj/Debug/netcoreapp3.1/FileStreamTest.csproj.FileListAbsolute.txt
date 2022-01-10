@@ -1,0 +1,13 @@
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.exe
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.deps.json
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.runtimeconfig.json
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.runtimeconfig.dev.json
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.dll
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\bin\Debug\netcoreapp3.1\FileStreamTest.pdb
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.csprojAssemblyReference.cache
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.AssemblyInfoInputs.cache
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.AssemblyInfo.cs
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.csproj.CoreCompileInputs.cache
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.dll
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.pdb
+C:\GIBZ\M226B\FileStreamTest\FileStreamTest\obj\Debug\netcoreapp3.1\FileStreamTest.genruntimeconfig.cache

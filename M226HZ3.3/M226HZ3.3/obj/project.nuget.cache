@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSQwrBqEr9mlUr+O9MS0q8JL0hDZ77baJSOC52iq6tDueBrP1J0V+RTGyL+1pmJifNMczsoE6VakkUBYtNFfRg==",
+  "success": true,
+  "projectFilePath": "C:\\GIBZ\\M226B\\M226HZ3.3\\M226HZ3.3\\M226HZ3.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\herrms12\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\herrms12\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

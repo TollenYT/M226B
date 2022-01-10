@@ -1,0 +1,16 @@
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\GIBZ\M226B\CarDealership\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\GIBZ\M226B\CarDealership\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
