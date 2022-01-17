@@ -9,8 +9,8 @@ namespace InterfaceTest
         [TestMethod]
         public void Test_SubstractMethod()
         {
-            Iasdf bm = new PersonStub();
-            int res = bm.Calculate(0, 0);
+            IPerson test = new PersonStub();
+            int res = test.AgeCalculate(0, 0);
             Assert.AreEqual(res, 5);
         }
     }
